@@ -23,6 +23,6 @@ SELECT * FROM funcionarios WHERE salario > 2000.00;
 
 SELECT * FROM funcionarios WHERE salario < 2000.00;
 
-UPDATE funcionarios SET salario = 5500.00 WHERE id = 1;
+UPDATE funcionarios SET salario = 4500.00 WHERE id = 1;
 
 SELECT * FROM funcionarios;
